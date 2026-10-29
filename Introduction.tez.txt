@@ -1,0 +1,43 @@
+# this is TeZ
+
+it has words
+first(do this)
+then(do this)
+later(do this)
+unless(authenticated)
+postpone(this)
+if(!this) then(that)
+insert(the given name) into `this`
+change this to that
+
+say('We love TeZ');
+
+
+| AN EXAMPLE MODEL SHOWING THE EASE OF USING TeZ AS YOUR BACKEND ---------|
+
+``` bash
+if anyone enter #APP_NAME/ROOT check auth [/* COMMENT: here `auth` is a predefined function]
+if ok then show the app [/* COMMENT: here `app` means rest of the app]
+```
+-------- END
+
+See the beauty of TeZ! It forces no syntax, no operational headaches, no binary table memorization.
+That's TeZ!
+TeZ is built for minimal syntaxes, so that every line feels part of an english essay than any computer programs.
+
+THE FIRST PUBLIC SHOWCASE VERSION OF TeZ WILL BE A SIMPLE PROGRAM THAT WORKS ON SOME LITTLE OPERATION UPON LOCAL STORAGE.
+THIS WILL SHOW HOW EASILY TeZ CAN BE USED IN CLOUD INFRASTRUCTURE – MAINLY DB OPERATIONS.
+
+# HISTORY OF TeZ
+    TeZ was started as an idea in September 2026 to make simple literary words make sense in code which actually looks more of a normal english statements than syntax-trapped letters & symbols.
+    The Founder of TeZ, Mr. Rajshekhar Gupta, intentionally orchestrated new terms changing the traditional approach of programming languages to define keywords & definitions and transform them into a single artistic essay which seems more like message texts than hyped code-blocks.
+    We believe in this idea, and for bringing this marvel to anyone in the world no matter of the background we contribute our heart & soul on molding and developing this language so that one day a humanities professor with no CS background can write a simple line that talks directly with his machine – and thus in this way build new innovative tools easily.
+
+    In this emerging era of uncontrolled expansion of artificial intelligence, I decided that we must brace for any imminent danger, mishap, and catastrophic results. If, for example, consider 'The Matrix' series.
+    And I believe that we need more talents into the field of technology – especially when it comes to computers.
+    By stripping down ungrammatical, complex coding languages, the design of TeZ is intended to bring in the talents and intelligence all over the world without any barrier of field experience.
+    A simple line of TeZ code which can take on 20 lines of complex code in any language is ultimately a great power and time saver.
+    And unfortunately to humans, we are in short of time – as always.
+    Hence, thoroughput implementation, design, and invention within TeZ source code will ultimately be boon to the humankind.
+
+Long Live humans, Long Live Humanity.

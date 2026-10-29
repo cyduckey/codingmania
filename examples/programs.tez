@@ -1,0 +1,9 @@
+say "Hello Buddy I'm TeZ"
+say (3) "Now you know who I am"
+wait until [something is finished]
+then say "Bang on!"
+finally say "Bye"
+STOP
+
+// For emergency or fatal cases instead of `STOP`
+ABORT

@@ -1,0 +1,13 @@
+show(err)
+print("Hello from TeZ world!")
+wait
+copy(aaaaaaa)
+fill(aaaaaaa)
+immut{}
+unless()
+until()
+till()
+never()
+while()
+short()
+long(pause(3000))   // time = 3000
